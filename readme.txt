@@ -2,6 +2,10 @@ Install dependencies using this command
 
 -- npm i get-image-colors jimp rtsp-ffmpeg socket.io express
 
+or 
+
+Download the zip file  -> Extract it ->  Open in  VSCode -> In Terminal -> Just Type ( npm i ) only.
+
 Install FFMPEG and add  it to your system path (on windows) by following these steps:
 1. Download the latest version of ffmpeg from here https://www.gyan.dev/ffmpeg/builds/
 
